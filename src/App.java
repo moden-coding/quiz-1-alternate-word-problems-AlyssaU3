@@ -20,6 +20,7 @@ public class App {
             int money = budget - price;
             System.out.println("You have $" + money + " remaining.");
             budget = money;
+            
         }
     }
 }
